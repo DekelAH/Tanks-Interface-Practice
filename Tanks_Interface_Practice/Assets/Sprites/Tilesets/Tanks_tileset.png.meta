@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: c799461f023375b4fa49249b7b4161c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2356596813267023619
+    second: Tanks_tileset_0
+  - first:
+      213: -4677552831662105379
+    second: Tanks_tileset_1
+  - first:
+      213: 1429868146871206824
+    second: Tanks_tileset_2
+  - first:
+      213: -5487812289357246216
+    second: Tanks_tileset_3
+  - first:
+      213: -2107043347885315533
+    second: Tanks_tileset_4
+  - first:
+      213: 7001991348876810999
+    second: Tanks_tileset_5
+  - first:
+      213: 3031521869034874387
+    second: Tanks_tileset_6
+  - first:
+      213: -636319341282532065
+    second: Tanks_tileset_7
+  - first:
+      213: -6338405207183830935
+    second: Tanks_tileset_8
+  - first:
+      213: 7474494816396113215
+    second: Tanks_tileset_9
+  - first:
+      213: 7633331198097595020
+    second: Tanks_tileset_10
+  - first:
+      213: -8040466115532250698
+    second: Tanks_tileset_11
+  - first:
+      213: -1832671957669514246
+    second: Tanks_tileset_12
+  - first:
+      213: 644613633517712659
+    second: Tanks_tileset_13
+  - first:
+      213: 7918409918100587505
+    second: Tanks_tileset_14
+  - first:
+      213: -9025964239343362804
+    second: Tanks_tileset_15
+  - first:
+      213: 7521725740427956948
+    second: Tanks_tileset_16
+  - first:
+      213: 6737215001759795934
+    second: Tanks_tileset_17
+  - first:
+      213: -6018271992010064557
+    second: Tanks_tileset_18
+  - first:
+      213: 4366021448551147344
+    second: Tanks_tileset_19
+  - first:
+      213: 2270434433744532019
+    second: Tanks_tileset_20
+  - first:
+      213: 5785338620617602308
+    second: Tanks_tileset_21
+  - first:
+      213: 1201636951024343702
+    second: Tanks_tileset_22
+  - first:
+      213: -1441237931463827563
+    second: Tanks_tileset_23
+  - first:
+      213: -493096009919815456
+    second: Tanks_tileset_24
+  - first:
+      213: 10921064391113776
+    second: Tanks_tileset_25
+  - first:
+      213: 5214441412782070510
+    second: Tanks_tileset_26
+  - first:
+      213: 6513347869315115937
+    second: Tanks_tileset_27
+  - first:
+      213: -1208973700931736933
+    second: Tanks_tileset_28
+  - first:
+      213: -4966339228100605718
+    second: Tanks_tileset_29
+  - first:
+      213: 5996163409831114933
+    second: Tanks_tileset_30
+  - first:
+      213: -714548999580051921
+    second: Tanks_tileset_31
+  - first:
+      213: -4406179376917392143
+    second: Tanks_tileset_32
+  - first:
+      213: -3658803381638424749
+    second: Tanks_tileset_33
+  - first:
+      213: -3755339995161635126
+    second: Tanks_tileset_34
+  - first:
+      213: -8601467320654706855
+    second: Tanks_tileset_35
+  - first:
+      213: -7738094713166655320
+    second: Tanks_tileset_36
+  - first:
+      213: -2758378667773167611
+    second: Tanks_tileset_37
+  - first:
+      213: -4055697625553759808
+    second: Tanks_tileset_38
+  - first:
+      213: -282697773957973029
+    second: Tanks_tileset_39
+  - first:
+      213: -6068353252232395295
+    second: Tanks_tileset_40
+  - first:
+      213: 2052682983954854756
+    second: Tanks_tileset_41
+  - first:
+      213: 5941104288764207287
+    second: Tanks_tileset_42
+  - first:
+      213: 6780125282399890831
+    second: Tanks_tileset_43
+  - first:
+      213: 5605773277579796634
+    second: Tanks_tileset_44
+  - first:
+      213: 624828411281617053
+    second: Tanks_tileset_45
+  - first:
+      213: -4587267290593786013
+    second: Tanks_tileset_46
+  - first:
+      213: 7482994501648638060
+    second: Tanks_tileset_47
+  - first:
+      213: 3352518802915172468
+    second: Tanks_tileset_48
+  - first:
+      213: 6297356182159242050
+    second: Tanks_tileset_49
+  - first:
+      213: 1794361884020045621
+    second: Tanks_tileset_50
+  - first:
+      213: -8639816000822545325
+    second: Tanks_tileset_51
+  - first:
+      213: -1358294519054312268
+    second: Tanks_tileset_52
+  - first:
+      213: 6045518919518871389
+    second: Tanks_tileset_53
+  - first:
+      213: -1864646646300622186
+    second: Tanks_tileset_54
+  - first:
+      213: -3733914428436647027
+    second: Tanks_tileset_55
+  - first:
+      213: 7971922099478608195
+    second: Tanks_tileset_56
+  - first:
+      213: -718543526053086732
+    second: Tanks_tileset_57
+  - first:
+      213: 2454433451647674139
+    second: Tanks_tileset_58
+  - first:
+      213: 5305614342437202838
+    second: Tanks_tileset_59
+  - first:
+      213: -1375765339261536260
+    second: Tanks_tileset_60
+  - first:
+      213: 2275596159657549245
+    second: Tanks_tileset_61
+  - first:
+      213: -6887007948799195182
+    second: Tanks_tileset_62
+  - first:
+      213: 3276252872392561369
+    second: Tanks_tileset_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tanks_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8c6622fafab4fd0800000000000000
+      internalID: -2356596813267023619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc58aa7b7ef51fb0800000000000000
+      internalID: -4677552831662105379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a387e9f089e7d310800000000000000
+      internalID: 1429868146871206824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f096da6ccf57d3b0800000000000000
+      internalID: -5487812289357246216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a22fa1d3742c2e0800000000000000
+      internalID: -2107043347885315533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa192e98021c2160800000000000000
+      internalID: 7001991348876810999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316e6a40411221a20800000000000000
+      internalID: 3031521869034874387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e4233ee65b27f0800000000000000
+      internalID: -636319341282532065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960525fdb067908a0800000000000000
+      internalID: -6338405207183830935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f9c61f6dbab760800000000000000
+      internalID: 7474494816396113215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9383184a0fe960800000000000000
+      internalID: 7633331198097595020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a22b0ba68a6090800000000000000
+      internalID: -8040466115532250698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3f94d709a0196e0800000000000000
+      internalID: -1832671957669514246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31572333fa022f800800000000000000
+      internalID: 644613633517712659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3c052fdd7d3ed60800000000000000
+      internalID: 7918409918100587505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5f8e88555db280800000000000000
+      internalID: -9025964239343362804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2de1885b9826860800000000000000
+      internalID: 7521725740427956948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda435b49556f7d50800000000000000
+      internalID: 6737215001759795934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dbe8a628dca7ca0800000000000000
+      internalID: -6018271992010064557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a0a21069379c30800000000000000
+      internalID: 4366021448551147344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33278259614328f10800000000000000
+      internalID: 2270434433744532019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405b24bc2d6a94050800000000000000
+      internalID: 5785338620617602308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a1aceb0721da010800000000000000
+      internalID: 1201636951024343702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 233
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f9742ccb1bffbe0800000000000000
+      internalID: -1441237931463827563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 233
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e02190aacb2829f0800000000000000
+      internalID: -493096009919815456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf99376acc62000800000000000000
+      internalID: 10921064391113776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea16fe66da6d5840800000000000000
+      internalID: 5214441412782070510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab2311c06f046a50800000000000000
+      internalID: 6513347869315115937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aac2d03dcd83fe0800000000000000
+      internalID: -1208973700931736933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c9fae8c4041bb0800000000000000
+      internalID: -4966339228100605718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 183
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8bd2a2ad6a63350800000000000000
+      internalID: 5996163409831114933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 183
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f269b6188796516f0800000000000000
+      internalID: -714548999580051921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 183
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4df2e933b1ad2c0800000000000000
+      internalID: -4406179376917392143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 183
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3579176a5b1593dc0800000000000000
+      internalID: -3658803381638424749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d299cb2a52ebc0800000000000000
+      internalID: -3755339995161635126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ce3d5b0371a880800000000000000
+      internalID: -8601467320654706855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a09f574bd3cc9490800000000000000
+      internalID: -7738094713166655320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5087d57573548b9d0800000000000000
+      internalID: -2758378667773167611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 135
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c119706f7447b7c0800000000000000
+      internalID: -4055697625553759808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 135
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbf0745fd7a31cf0800000000000000
+      internalID: -282697773957973029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 135
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50a1d5ed0e8cba0800000000000000
+      internalID: -6068353252232395295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 135
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4633e1f5c489c7c10800000000000000
+      internalID: 2052682983954854756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 158
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b027519fda037250800000000000000
+      internalID: 5941104288764207287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 158
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d271e8508d71e50800000000000000
+      internalID: 6780125282399890831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9065856815bbcd40800000000000000
+      internalID: 5605773277579796634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 126
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90330c2126dba800800000000000000
+      internalID: 624828411281617053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 126
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367836e14b0c650c0800000000000000
+      internalID: -4587267290593786013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 126
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60e7f64adfe8d760800000000000000
+      internalID: 7482994501648638060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 87
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a39eb61a868e20800000000000000
+      internalID: 3352518802915172468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 87
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24336b53514b46750800000000000000
+      internalID: 6297356182159242050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 87
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f38760aad6e810800000000000000
+      internalID: 1794361884020045621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547c3a7f15391880800000000000000
+      internalID: -8639816000822545325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 78
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc586bd45e562de0800000000000000
+      internalID: -1358294519054312268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 78
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f53d04d6ff5e350800000000000000
+      internalID: 6045518919518871389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692c0a721c17f16e0800000000000000
+      internalID: -1864646646300622186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 78
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f3574c987e2cc0800000000000000
+      internalID: -3733914428436647027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349328499e4f1ae60800000000000000
+      internalID: 7971922099478608195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 39
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9f2f558783706f0800000000000000
+      internalID: -718543526053086732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 44
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ab4a5836ef0220800000000000000
+      internalID: 2454433451647674139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 44
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bef24522451a940800000000000000
+      internalID: 5305614342437202838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 44
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7750b86bc48ece0800000000000000
+      internalID: -1375765339261536260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 46
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd91ac86aa849f10800000000000000
+      internalID: 2275596159657549245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7488e62ce6c60a0800000000000000
+      internalID: -6887007948799195182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanks_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 46
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2df4d01a6977d20800000000000000
+      internalID: 3276252872392561369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
