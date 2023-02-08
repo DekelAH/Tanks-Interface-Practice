@@ -11,18 +11,6 @@ namespace Tanks.Gameplay.Projectiles
 
         [SerializeField]
         private Rigidbody2D _rb;
-
-        [SerializeField]
-        [Range(0.1f, 5f)]
-        private float _speed;
-
-        [SerializeField]
-        [Range(5f, 25f)]
-        private float _maxDistance;
-
-        [SerializeField]
-        [Range(1, 100)]
-        private int _damageToApply;
         
         #endregion
 
@@ -36,20 +24,20 @@ namespace Tanks.Gameplay.Projectiles
         
         #region Methods
         
-        public override void Fire(Vector2 initialPosition, Vector2 direction)
+        public override void Fire(Vector2 fromDirection, Vector2 flyDirection)
         {
-            _startPosition = initialPosition;
-            _direction = direction;
+            _startPosition = fromDirection;
+            _direction = flyDirection;
             transform.position = _startPosition;
         }
 
         private void FixedUpdate()
         {
-            FlyForward();
+            Fly();
             ValidateMaxDistance();
         }
 
-        private void FlyForward()
+        private void Fly()
         {
             _rb.velocity = _direction * _speed;
         }

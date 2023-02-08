@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &6828745330124868532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6593244532666613160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e5d52e6dba33664eb5e8c38d7fc72bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _animator: {fileID: 9065303146826269102}
+  _rb: {fileID: 6593244532666613165}
+  _moveSpeed: 1
+  _turnSpeed: 1
+  _firePosition: {fileID: 7410363582365843353}
+  _projectilePrefabRef: {fileID: 4644339297455541094, guid: b9bf7a4c058f0174096888b297e29a6d, type: 3}
+--- !u!95 &9065303146826269102
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6593244532666613160}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &8732105775634045633
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2472831374175561577, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_Name
+      value: Player Green Tank
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2472831374175561578, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+--- !u!1 &6593244532666613160 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2472831374175561577, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+  m_PrefabInstance: {fileID: 8732105775634045633}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &6593244532666613165 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 2472831374175561580, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+  m_PrefabInstance: {fileID: 8732105775634045633}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7410363582365843353 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2303676536016201048, guid: b62850ff551422f46a3e16f0feba7c3d, type: 3}
+  m_PrefabInstance: {fileID: 8732105775634045633}
+  m_PrefabAsset: {fileID: 0}

@@ -2636,7 +2636,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38bb900c1a45e8745843f77e16238a61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _pixelProjectilePrefabRef: {fileID: 2337535810154826454, guid: b9bf7a4c058f0174096888b297e29a6d, type: 3}
+  _pixelProjectilePrefabRefs:
+  - {fileID: 2337535810154826454, guid: b9bf7a4c058f0174096888b297e29a6d, type: 3}
+  - {fileID: 2337535810154826454, guid: a8d78f0c1b3a1f74c8441cb6e0f3e222, type: 3}
+  - {fileID: -6542549903128007273, guid: 511f3d7fa7ed2ca40aaf0b437f8de2a3, type: 3}
 --- !u!1 &1310377718
 GameObject:
   m_ObjectHideFlags: 0
@@ -3382,7 +3385,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecadde7a07294cc8b2a637964477b5d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _cooldownTime: 3
+  _cooldownTime: 1
 --- !u!1 &1720235973
 GameObject:
   m_ObjectHideFlags: 0
@@ -4496,7 +4499,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6636050411485665310, guid: 2234f9397b8b8044fbe5fb87c1302310, type: 3}
       propertyPath: m_Name
-      value: wehicle_1
+      value: vehicle_1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2234f9397b8b8044fbe5fb87c1302310, type: 3}
