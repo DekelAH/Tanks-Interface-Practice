@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using Assets.Scripts.Gameplay.Indicators;
+using System;
+using UnityEngine;
 using UnityEngine.UI;
 
 namespace Tanks.Gameplay.Indicators
@@ -15,10 +17,14 @@ namespace Tanks.Gameplay.Indicators
 
         [SerializeField]
         private CanvasGroup _canvasGroup;
-        
+
         #endregion
 
         #region Fields
+
+        private ICoolDownIndicatorTarget _indicatorTarget;
+
+        private Camera _transformationCamera;
 
         #endregion
         
@@ -33,16 +39,39 @@ namespace Tanks.Gameplay.Indicators
 
         private void UpdateVisibility()
         {
+            _canvasGroup.alpha = _indicatorTarget.IsInCooldown ? 1 : 0;
         }
 
         private void FollowTarget()
         {
+            if (_indicatorTarget == null)
+            {
+                return;
+            }
+
+            _selfTransform.anchoredPosition = _transformationCamera.WorldToScreenPoint(_indicatorTarget.PivotPoint);
         }
 
         private void UpdateCooldownBar()
         {
+            _cooldownBar.value = _indicatorTarget.CooldownProgress;
         }
-        
+
+        public void Attach(ICoolDownIndicatorTarget indicatorTarget, Camera transformationCamera)
+        {
+            _indicatorTarget = indicatorTarget;
+            _indicatorTarget.Killed += OnTargetKilled;
+            _transformationCamera = transformationCamera;
+        }
+
+        private void OnTargetKilled()
+        {
+            _indicatorTarget.Killed -= OnTargetKilled;
+            _indicatorTarget = null;
+            _transformationCamera = null;
+            Destroy(gameObject);
+        }
+
         #endregion
     }
 }

@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using Assets.Scripts.Gameplay.Indicators;
+using System.Linq;
 using UnityEngine;
 
 namespace Tanks.Gameplay.Indicators
@@ -12,7 +13,10 @@ namespace Tanks.Gameplay.Indicators
 
         [SerializeField]
         private Camera _transformationCamera;
-        
+
+        [SerializeField]
+        private HealthIndicator _healthIndicatorPrefabRef;
+
         #endregion
         
         #region Methods
@@ -24,6 +28,13 @@ namespace Tanks.Gameplay.Indicators
 
         private void AddHealthIndicators()
         {
+            var indicatorTargets = FindObjectsOfType<MonoBehaviour>().OfType<IHealthIndicatorTarget>();
+
+            foreach (var indicatorTarget in indicatorTargets)
+            {
+                var indicatorInstance = Instantiate(_healthIndicatorPrefabRef, _parentTransform);
+                indicatorInstance.Attach(indicatorTarget, _transformationCamera);
+            }
         }
 
         #endregion

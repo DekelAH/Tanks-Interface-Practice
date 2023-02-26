@@ -1,17 +1,28 @@
-﻿using System.Collections;
+﻿using Assets.Scripts.Gameplay.Indicators;
+using System.Collections;
 using UnityEngine;
+using System;
 
 namespace Tanks.Gameplay.Components
 {
-    public class CooldownComponent : MonoBehaviour
+    public class CooldownComponent : MonoBehaviour, ICoolDownIndicatorTarget
     {
+        #region Events
+
+        public event Action Killed;
+
+        #endregion
+
         #region Editor
 
         [SerializeField]
         private float _cooldownTime;
 
+        [SerializeField]
+        private Transform _indicatorPivot;
+
         #endregion
-        
+
         #region Methods
 
         public void Begin()
@@ -38,11 +49,13 @@ namespace Tanks.Gameplay.Components
 
         #region Properties
 
-        private float CooldownProgress { get; set; }
+        public float CooldownProgress { get; set; }
 
         public float InverseCooldownProgress => 1 - CooldownProgress;
         
         public bool IsInCooldown { get; private set; }
+
+        public Vector3 PivotPoint => _indicatorPivot.position;
 
         #endregion
     }

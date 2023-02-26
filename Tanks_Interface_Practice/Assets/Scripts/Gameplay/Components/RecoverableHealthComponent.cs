@@ -1,10 +1,18 @@
 ﻿using Assets.Scripts.Gameplay.Damageables;
+using Assets.Scripts.Gameplay.Indicators;
+using System;
 using UnityEngine;
 
 namespace Tanks.Gameplay.Components
 {
-    public class RecoverableHealthComponent : MonoBehaviour, IDamageable
+    public class RecoverableHealthComponent : MonoBehaviour, IDamageable, IHealthIndicatorTarget
     {
+        #region Events
+
+        public event Action Killed;
+
+        #endregion
+
         #region Editor
 
         [SerializeField]
@@ -18,7 +26,10 @@ namespace Tanks.Gameplay.Components
         [SerializeField]
         [Range(0.5f, 10f)]
         private float _recoverPeriodInSeconds = 2f;
-        
+
+        [SerializeField]
+        private Transform _indicatorTarget;
+
         #endregion
 
         #region Methods
@@ -43,6 +54,7 @@ namespace Tanks.Gameplay.Components
             _health -= damageAmount;
             if (_health <= 0)
             {
+                Killed?.Invoke();
                 Destroy(gameObject);
             }
         }
@@ -52,6 +64,8 @@ namespace Tanks.Gameplay.Components
         #region Properties
 
         public int Health => _health;
+
+        public Vector3 PivotPoint => _indicatorTarget.position;
 
         #endregion
     }
